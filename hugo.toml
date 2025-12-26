@@ -2,3 +2,21 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Daniel Raj'
 theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+title = "hi, i'm daniel"
+subtitle = ":)"
+
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/frorevale/"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/FroreVale"
+
+[[params.socialIcons]]
+name = "Email"
+url = "danielraj1159@gmail.com"
