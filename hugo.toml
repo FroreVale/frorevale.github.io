@@ -20,3 +20,7 @@ url = "https://github.com/FroreVale"
 [[params.socialIcons]]
 name = "Email"
 url = "danielraj1159@gmail.com"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
